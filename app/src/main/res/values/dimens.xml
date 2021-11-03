@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="margin_btn">8dp</dimen>
+    <dimen name="padding_dice1">10dp</dimen>
+    <dimen name="padding_dice2">10dp</dimen>
 </resources>
